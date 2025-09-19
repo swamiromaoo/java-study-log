@@ -1,7 +1,7 @@
 package academy.maratonajava.introducao;
 
-public class OlaDEv {
+public class TiposDeVariaveis {
     public static void main(String[] args) {
-        System.out.println("Ola Dev, fala comigo");
+        System.out.println("variaveis");
     }
 }
